@@ -1,1 +1,1 @@
-# Challenge-18---social-networkAPI
+# challenge18-Social-Network-API
