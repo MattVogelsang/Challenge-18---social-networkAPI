@@ -2,9 +2,9 @@
 
 ![Insomnia](img/image.png)
 
-<a href="[https://drive.google.com/drive/recent?dmr=1&ec=wgc-drive-globalnav-goto](https://drive.google.com/file/d/1NyeM1zxioBrMEHXJPgNy1U7U66Bt3b1h/view?usp=sharing)"> Click Here for Demo Video Part 1 </a>
+<a href="https://drive.google.com/file/d/1NyeM1zxioBrMEHXJPgNy1U7U66Bt3b1h/view?usp=sharing"> Click Here for Demo Video Part 1 </a>
 
-<a href="[https://drive.google.com/drive/recent?dmr=1&ec=wgc-drive-globalnav-goto](https://drive.google.com/file/d/1w5ZfYVC9517mkRDKOS-E5C8GV42HmDFV/view?usp=sharing)" > Click Here for Demo Video Part 2 <a/> 
+<a href="https://drive.google.com/file/d/1w5ZfYVC9517mkRDKOS-E5C8GV42HmDFV/view?usp=sharing" > Click Here for Demo Video Part 2 <a/> 
 
 
 
