@@ -4,10 +4,9 @@
 
 <a href="https://drive.google.com/drive/recent?dmr=1&ec=wgc-drive-globalnav-goto"> Click Here for Demo Video Part 1 </a>
 
-<a href="https://drive.google.com/drive/recent?dmr=1&ec=wgc-drive-globalnav-goto" > Click Here for Demo Video PArt 2 <a/> 
+<a href="https://drive.google.com/drive/recent?dmr=1&ec=wgc-drive-globalnav-goto" > Click Here for Demo Video Part 2 <a/> 
 
 
-[Click here for Demo Part 2](<../../../Screen Recording 2024-12-22 at 4.26.15 PM.mov>)
 
 ## Description
 
