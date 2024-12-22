@@ -1,6 +1,14 @@
 # Social Network API
 
 ![Insomnia](img/image.png)
+
+<a href="https://drive.google.com/drive/recent?dmr=1&ec=wgc-drive-globalnav-goto"> Click Here for Demo Video Part 1 </a>
+
+<a href="https://drive.google.com/drive/recent?dmr=1&ec=wgc-drive-globalnav-goto" > Click Here for Demo Video PArt 2 <a/> 
+
+
+[Click here for Demo Part 2](<../../../Screen Recording 2024-12-22 at 4.26.15 PM.mov>)
+
 ## Description
 
 This project is a robust API for a social network application that leverages a NoSQL database (MongoDB) to efficiently handle large volumes of unstructured data. Designed for scalability and performance, the API provides functionality to manage users, their thoughts, reactions to thoughts, and friend lists. Built with Mongoose and Express.js, this application ensures seamless data operations and is tested via Insomnia.
@@ -104,6 +112,7 @@ Adding and removing friends from a user\ friend list.
 
 License
 This project is licensed under the MIT License. See the LICENSE file for details.
+
 
 
 
